@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.ai.navigation": {
       "version": "1.1.5",
       "depth": 0,
@@ -9,6 +10,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077
     "com.unity.collab-proxy": {
       "version": "2.2.0",
       "depth": 0,

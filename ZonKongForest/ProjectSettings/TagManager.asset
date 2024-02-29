@@ -3,6 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - FirstPerson
   - Axe
@@ -13,16 +14,28 @@ TagManager:
   - Spear
   - Enemy
   - Ground
+=======
+  tags: []
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - FirstPerson
   - Water
   - UI
   - Enemy
   - Player
   - Ground
+=======
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077
   - 
   - 
   - 

@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 ZonKongForest/Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077

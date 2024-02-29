@@ -12,7 +12,11 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
+<<<<<<< HEAD
   companyName: GOOD BOY GAMES
+=======
+  companyName: DefaultCompany
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077
   productName: ZonKongForest
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -39,10 +43,15 @@ PlayerSettings:
     y: 0
     width: 1
     height: 1
+<<<<<<< HEAD
   m_SplashScreenLogos:
   - logo: {fileID: 21300000, guid: 477ab9cea2aeeb441af76ae63bc74ede, type: 3}
     duration: 3
   m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 09ac57f702912314b82f63f8da9406b7, type: 3}
+=======
+  m_SplashScreenLogos: []
+  m_VirtualRealitySplashScreen: {fileID: 0}
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1920
   defaultScreenHeight: 1080
@@ -159,8 +168,12 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
+<<<<<<< HEAD
   applicationIdentifier:
     Standalone: com.GOOD-BOY-GAMES.ZonKongForest
+=======
+  applicationIdentifier: {}
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -281,6 +294,7 @@ PlayerSettings:
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
+<<<<<<< HEAD
   m_BuildTargetIcons:
   - m_BuildTarget: Standalone
     m_Icons:
@@ -331,6 +345,9 @@ PlayerSettings:
       m_Width: 128
       m_Height: 128
       m_Kind: 0
+=======
+  m_BuildTargetIcons: []
+>>>>>>> c247969a739d36ffd281f62142b96141067b4077
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: iPhone
     m_Icons:
