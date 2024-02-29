@@ -3,17 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FirstPerson
+  - Axe
+  - CrossHair
+  - LookRoot
+  - FPCamera
+  - Arrow
+  - Spear
+  - Enemy
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - FirstPerson
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Enemy
+  - Player
+  - Ground
   - 
   - 
   - 
